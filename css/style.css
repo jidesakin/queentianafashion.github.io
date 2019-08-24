@@ -337,6 +337,7 @@ p {
   padding: 0 15px;
   float: left; }
 
+
 .logo-wrap {
   display: table;
   width: 100%; }
@@ -356,8 +357,8 @@ p {
     -moz-transition: all 0.3s ease-in-out;
     -ms-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-    max-height: 66px; }
+    transition: all 0.1003s ease-in-out;
+    max-height: 200px }
   .logo-wrap.shrink img {
     max-height: 48px; }
 
